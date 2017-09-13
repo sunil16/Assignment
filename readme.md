@@ -1,6 +1,6 @@
-php and laravel version
-PHP 7.0.15
-Laravel Framework 5.4.17
+php and laravel version</br>
+PHP 7.0.15</br>
+Laravel Framework 5.4.17</br>
 
 Installation
 $git clone https://github.com/sunil16/Assignment.gi projectname
